@@ -1,0 +1,18 @@
+*{
+    margin-top:10px;
+}
+body{
+   
+    font-family: 'Comic Neue', cursive;
+}
+.form-signin {
+    width:300px; 
+    margin:auto;
+}
+
+.btn-dark:hover{
+  
+    border: 3px solid #FF5733;
+  /*   border-radius: 15px; */
+    box-shadow:#FF5733
+}
